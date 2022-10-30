@@ -59,6 +59,7 @@ a:hover{
 
 .img-circle {
    border-radius: 50%;
+   clip-path: ellipse(45% 40%);
 }
 
 .btn-purple {
